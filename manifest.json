@@ -1,0 +1,15 @@
+{
+  "name": "Chess Ladder",
+  "short_name": "Chess Ladder",
+  "description": "A 150-level chess ladder with an AI opponent — Beginner, Moderate, Advanced.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#241811",
+  "theme_color": "#241811",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
